@@ -2,7 +2,7 @@
   "$schema": "http://json-schema.org/draft-07/schema",
   "type": "array",
   "items": {
-    "currency": "RUB",
+    "currency": "RUR",
   "required": [
     "id",
     "name",
