@@ -3,8 +3,8 @@
   "type": "array",
   "items": {
     "enum": [
-      "USD",
-      "RUB"
+      "RUB",
+      "USD"
     ],
   "required": [
     "id",
